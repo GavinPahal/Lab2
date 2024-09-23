@@ -1,6 +1,11 @@
+.artist-list {
+  display: block;
+}
+
 .artist-card {
   border: 1px solid black;
   background: rgb(217, 215, 215);
+  width: 800px;
 }
 
 
