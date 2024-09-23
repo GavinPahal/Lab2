@@ -1,0 +1,20 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.artist-list {
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Stack cards in a column */
+  align-items: center; /* Center items */
+  gap: 15px; /* Space between boxes */
+  padding: 20px;
+}
+
+.artist-card {
+  background: #f0f0f0; /* Light background */
+  border: 1px solid #ccc; /* Simple border */
+  padding: 20px; /* Padding for content */
+  width: 400px; /* Wider for longer boxes */
+  height: 200px; /*
+}

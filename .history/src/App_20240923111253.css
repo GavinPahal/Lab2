@@ -1,0 +1,10 @@
+.artist-list {
+  display: block;
+}
+
+.artist-card {
+  border: 1px solid black;
+  background: gray;
+  padding: 10px;
+  margin: 10px;
+}

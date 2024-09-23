@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
-import ArtistDetails from './components/ArtistDetails';
-import artists from './best-selling-music-artists'; // import the data
+import ArtistDetails from '../components/ArtistDetails';
+import artists from '../best-selling-music-artists'; 
 
 const App = () => {
   return (
